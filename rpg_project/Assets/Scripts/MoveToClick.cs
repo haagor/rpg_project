@@ -3,6 +3,8 @@ using UnityEngine.AI;
 
 public class MoveToClick: MonoBehaviour {
     NavMeshAgent agent;
+
+    public Transform mouseClick;
     
     void Start() {
         agent = GetComponent<NavMeshAgent>();
@@ -13,6 +15,7 @@ public class MoveToClick: MonoBehaviour {
             RaycastHit hit;
             
             if (Physics.Raycast(Camera.main.ScreenPointToRay(Input.mousePosition), out hit, 100)) {
+                mouseClick.transform.position = hit.point;
                 agent.destination = hit.point;
             }
         }

@@ -508,23 +508,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1912549427 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 9108324719460279163, guid: 03ffa9c6623f18347aedf3c23c2d7bfb, type: 3}
-  m_PrefabInstance: {fileID: 4276441857783646252}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1912549432
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1912549427}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 97846e20d26b4d14a9cbbe3e724c8851, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &49391537675589552 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8388688608871976904, guid: 605338672530b4d4c8d0136067d33d7a, type: 3}
@@ -608,6 +591,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97846e20d26b4d14a9cbbe3e724c8851, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mouseClick: {fileID: 1513282255}
 --- !u!195 &8343072691414352340
 NavMeshAgent:
   m_ObjectHideFlags: 0
