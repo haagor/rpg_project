@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.AI;
 
 public class MoveToClick: MonoBehaviour {
+    
     NavMeshAgent agent;
 
     public Transform mouseClick;
