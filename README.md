@@ -6,17 +6,17 @@ I want to some cities, farms, industries. Implement factions, hikers, ground veh
 
 Game like Battle Brothers or WarTales give me some ideas to implement commercial system and how to move on the terrain.
 
-![](https://github.com/haagor/tpg_project/blob/master/img/wartales.png)
+![](https://github.com/haagor/rpg_project/blob/main/img/wartales.png)
 
-![](https://github.com/haagor/tpg_project/blob/master/img/battlebrother.png)
+![](https://github.com/haagor/rpg_project/blob/main/img/battlebrother.png)
 
 Dune spice wars are a fabulous example of beautiful visual.
 
-![](https://github.com/haagor/tpg_project/blob/master/img/dune.png)
+![](https://github.com/haagor/rpg_project/blob/main/img/dune.png)
 
 But in this project I really want to be autonomous as possible. So it's a good occasion to open for the first time Blender. The tutorials that I find, like : [Polygon Runway](https://www.youtube.com/watch?v=PdBUYZHJh30&t=5s) are really motivate! So I want to try to make some simple modeling; cities, air ships...
 
-![](https://github.com/haagor/tpg_project/blob/master/img/blender.png)
+![](https://github.com/haagor/rpg_project/blob/main/img/blender.png)
 
 
 
