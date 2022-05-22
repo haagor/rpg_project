@@ -24,8 +24,9 @@ public class PersonaBehavior: MonoBehaviour {
     }
 
     void updateDestination() {
-        int i = Random.Range(0, interestPoint.Length);
+        // change when multiple type of interestPoint
+        int i = Random.Range(0, interestPoint[0].childCount);
         Debug.Log(i);
-        Destination = interestPoint[i];
+        Destination = interestPoint[0].GetChild(i);
     }
 }
